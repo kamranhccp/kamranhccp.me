@@ -1,0 +1,28 @@
+body{
+	background-color: #171721;
+	border: 5px inset rgb(36, 39, 223);	
+	color: #ffffff;
+}
+
+html{
+	border: 5px double red;
+}
+p{
+	border: 3px;
+	border-style: ridge;
+	background-color: darkturquoise;
+}
+h1{
+   color:blue;
+   text-align: center;
+   border: double;
+   border-color: chartreuse;
+   background-color: aqua;
+}
+h2{
+	color: #eb1111;
+	background-color:rgb(30, 248, 255);
+	border: 3px;
+	border-style: ridge;
+}
+
